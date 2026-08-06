@@ -1,8 +1,8 @@
 class Envorigin < Formula
   desc "Explain where environment variables come from — Docker Compose, GitHub Actions, GitLab CI, CircleCI"
   homepage "https://github.com/FIERsity/envorigin"
-  url "https://github.com/FIERsity/envorigin/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "c9f5bc5149da80026df3aac98000599c2ae2478d92805d1ca8bb14f877fca9c1"
+  url "https://github.com/FIERsity/envorigin/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "153fe320a63047f75652482b685bf8f7fa25ca6e671f3ce5f046af69cadc7331"
   license "MIT"
 
   depends_on "rust" => :build
